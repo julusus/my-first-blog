@@ -25,7 +25,7 @@ SECRET_KEY = '1c4j3b69cu$u^*#7t_h-bc_*b^^lwo1q(1uq$5j98imhbv-@sk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<твоё_имя_пользователя>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'julusus.pythonanywhere.com']
 
 
 # Application definition
